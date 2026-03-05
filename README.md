@@ -93,7 +93,7 @@ backend/
 
 1. **Clone the repository**
 ```bash
-git clone <backend-repo-url>
+git clone https://github.com/Jino-X/ai-interview-backend.git
 cd backend
 ```
 
@@ -292,14 +292,6 @@ npm test         # Run tests (if configured)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support, email your-email@example.com or create an issue in the repository.
 
 ---
 
